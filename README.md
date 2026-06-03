@@ -22,3 +22,6 @@ Además, la aplicación identifica posibles riesgos y genera alertas para recome
 
 ## Objetivo
 Desarrollar una solución digital que ayude a las personas a mejorar su alimentación y su calidad de vida.
+
+## Prototipo
+https://nutricion-inteligente--king2999k.replit.app/ 
